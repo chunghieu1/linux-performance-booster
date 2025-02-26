@@ -34,7 +34,7 @@ This repository aims to enhance your Linux system's performance through a series
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/your-username/linux-performance-booster.git
+git clone https://github.com/chunghieu1/linux-performance-booster.git
 cd linux-performance-booster
 ```
 
