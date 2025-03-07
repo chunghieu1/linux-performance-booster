@@ -83,4 +83,4 @@ Please ensure your contributions adhere to the coding style and include appropri
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
